@@ -1,3 +1,5 @@
+# import google news #one news at a time 
+
 from GoogleNews import GoogleNews
 
 # Create a GoogleNews object
